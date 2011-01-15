@@ -1,0 +1,21 @@
+[submodule "modules/mailsrc"]
+	path = modules/mailsrc
+	url = https://github.com/shackspace/genericore-mailsrc.git
+[submodule "modules/mail_proc"]
+	path = modules/mail_proc
+	url = https://github.com/shackspace/genericore-mail_proc.git
+[submodule "modules/mail_live_stats"]
+	path = modules/mail_live_stats
+	url = https://github.com/shackspace/genericore-mail_live_stats.git
+[submodule "modules/irclog"]
+	path = modules/irclog
+	url = https://github.com/shackspace/genericore-irclog.git
+[submodule "modules/bunghole"]
+	path = modules/bunghole
+	url = https://github.com/shackspace/genericore-bunghole.git
+[submodule "modules/dummy_generator"]
+	path = modules/dummy_generator
+	url = https://github.com/shackspace/genericore-dummy_generator.git
+[submodule "modules/dummy_consumer"]
+	path = modules/dummy_consumer
+	url = https://github.com/shackspace/genericore-dummy_consumer.git
