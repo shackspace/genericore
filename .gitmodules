@@ -19,3 +19,6 @@
 [submodule "modules/dummy_consumer"]
 	path = modules/dummy_consumer
 	url = https://github.com/shackspace/genericore-dummy_consumer.git
+[submodule "modules/snmp_users"]
+	path = modules/snmp_users
+	url = https://github.com/shackspace/genericore-snmp_users.git
