@@ -1,0 +1,10 @@
+{
+  "type" : "mail",
+  "subtype" : 1,
+  "data": {
+    "user" : "Bob Ross <Bob@Ross.de>",
+    "first_post" : "Sun, 16 Jan 2011 00:24:54 +0100",
+    "last_post" : "Sun, 16 Jan 2011 00:24:54 +0100",
+    "mailcount" : 1
+  }
+}
