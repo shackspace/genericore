@@ -1,0 +1,20 @@
+{
+  "type": "mail",
+  "subtype":0,
+  "data": {
+    "Header-Fields": {
+      "Return-Path" : "...",
+      ...
+      "Date": {
+        "year": <integer; full year, e.g. 1984>,
+        "month": <integer; [1,12]>,
+        "day": <integer; [1,31]>,
+        "hour": <integer; [0,23]>,
+        "minute": <integer; [0,59]>,
+        "second": <integer; [0,59]>
+      },
+      ...
+    },
+    "Body": "..."
+  }
+}
