@@ -22,3 +22,6 @@
 [submodule "modules/snmp_users"]
 	path = modules/snmp_users
 	url = https://github.com/shackspace/genericore-snmp_users.git
+[submodule "libraries/python"]
+	path = libraries/python
+	url = https://github.com/shackspace/python-genericore.git

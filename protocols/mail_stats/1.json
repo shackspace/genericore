@@ -1,0 +1,13 @@
+{
+  "type" : "mail",
+  "subtype" : 1,
+  "data" : {
+    "num_mail_abs" : {
+      "month" : 4,
+      "week" : 3,
+      "day" : 2,
+      "hour" : 1
+      }
+   }
+}
+
