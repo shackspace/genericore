@@ -25,3 +25,6 @@
 [submodule "libraries/python"]
 	path = libraries/python
 	url = https://github.com/shackspace/python-genericore.git
+[submodule "modules/mail_stats"]
+	path = modules/mail_stats
+	url = https://github.com/shackspace/genericore-mail_stats.git
