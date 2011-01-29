@@ -1,5 +1,5 @@
-{ "type" : "mail",
-, "subtype" : 0,
+{ "type" : "mail"
+, "subtype" : 0
 , "data":
   { "Header-Fields":
     { "Return-Path": "<root@genericore>"
