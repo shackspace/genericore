@@ -28,3 +28,6 @@
 [submodule "modules/mail_stats"]
 	path = modules/mail_stats
 	url = https://github.com/shackspace/genericore-mail_stats.git
+[submodule "libraries/node"]
+	path = libraries/node
+	url = https://github.com/shackspace/node-genericore.git
