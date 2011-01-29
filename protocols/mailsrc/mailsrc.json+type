@@ -1,9 +1,8 @@
 {
   "type": "mail",
-  "subtype":0,
+  "subtype": 0,
   "data": {
     "Header-Fields": {
-      "Return-Path" : "...",
       ...
       "Date": {
         "year": <integer; full year, e.g. 1984>,
@@ -13,6 +12,16 @@
         "minute": <integer; [0,59]>,
         "second": <integer; [0,59]>
       },
+      ...
+      "From": {
+        "email": <string; user@host>,
+        "name": <string; optional>
+      },
+      ...
+      "To": [ {
+        "email": <string; user@host>,
+        "name": <string; optional>
+      }, ... ],
       ...
     },
     "Body": "..."
