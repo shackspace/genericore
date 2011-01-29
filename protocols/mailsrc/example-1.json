@@ -1,20 +1,21 @@
 { "type" : "mail",
 , "subtype" : 0,
 , "data":
-{ "Header-Fields":
-  { "Return-Path": "<root@genericore>"
-  , "To": [ { "email": "mailsrc@genericore" } ]
-  , "Subject": "test"
-  , "Message-Id": "genericore/protocols/mailsrc/example-1.json@genericore"
-  , "Date": 
-     { "year": 2012
-     , "month": 12
-     , "day": 12
-     , "hour": 12
-     , "minute": 12
-     , "second": 12
-     }
-  , "From": { "email": "kk@internet", "name": "Karl Koch" }
-  },
-, "Body": "foo\n"
+  { "Header-Fields":
+    { "Return-Path": "<root@genericore>"
+    , "To": [ { "email": "mailsrc@genericore" } ]
+    , "Subject": "test"
+    , "Message-Id": "genericore/protocols/mailsrc/example-1.json@genericore"
+    , "Date": 
+       { "year": 2012
+       , "month": 12
+       , "day": 12
+       , "hour": 12
+       , "minute": 12
+       , "second": 12
+       }
+    , "From": { "email": "kk@internet", "name": "Karl Koch" }
+    }
+  , "Body": "foo\n"
+  }
 }
