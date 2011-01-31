@@ -1,0 +1,17 @@
+{
+  "type": "irc",
+  "subtype": 0,
+  "data": {
+    "prefix": {
+      "name": "root",
+      "user": "root@internet"
+    },
+    "command": "PRIVMSG",
+    "msgtargets": [
+      "#genericoredump"
+    ],
+    "text": "This is the actual text root wrote.",
+    "server": "irc.freenode.org",
+    "port": 6667
+  }
+}
